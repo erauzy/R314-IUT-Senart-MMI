@@ -12,7 +12,7 @@ Un répo pour *R3.14 Déploiement de services*
 
 ![Déploiement de Service Image Principale](https://upload.wikimedia.org/wikipedia/commons/1/18/Governors_of_the_Wine_Merchant%27s_Guild.jpg?20080121133905)
 
-
+<p align="center">
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|
@@ -21,7 +21,9 @@ Un répo pour *R3.14 Déploiement de services*
 | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: |
 | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: |
 | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: |
-| :moon: | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: |  
+| :moon: | :moon: | :moon: | :m: | :moon: | :moon: | :moon: |  
+
+</p>
 
 
 Choose your pieces!  
