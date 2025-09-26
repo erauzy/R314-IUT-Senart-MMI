@@ -21,13 +21,10 @@ Un répo pour *R3.14 Déploiement de services*
 | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: |
 | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: |
 | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: |
-| :moon: | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: |
+| :moon: | :moon: | :moon: | :moon: | :moon: | :moon: | :moon: |  
+Choose your pieces!  
+ :m: vs :secret:  
+:bomb: vs :blossom:  
+Etc.  
 
-
-Choose your pieces! 
-
-:m: vs :secret: 
-:bomb: vs :blossom: 
-
-Etc. 
 [Markodown Github emoji markup](https://gist.github.com/rxaviers/7360908)
