@@ -8,15 +8,16 @@ Un répo pour *R3.14 Déploiement de services*
 | Je ne travaille pas bien  | Mauvaise note  | :cry:    |
 |    Autre  | Autre  | :confused:   |
 
-# La checklist 
+## La checklist 
 
 - [ ] Première chose.
 - [x] Deuxième chose.
 
-# La guilde 
+## La guilde 
 ![Déploiement de Service Image Principale](https://upload.wikimedia.org/wikipedia/commons/1/18/Governors_of_the_Wine_Merchant%27s_Guild.jpg?20080121133905)
 
 <p align="center">
+## La partie de puissance 4 
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|
