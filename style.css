@@ -1,0 +1,122 @@
+/*.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    position: relative;
+    /* or sticky/fixed if you want it to stay on scroll 
+}*/
+
+.top-right {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    /*   background-color: #db1919;*/
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.element {
+    max-width: fit-content;
+    margin-inline: auto;
+}
+
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    /*  background-color: #21be48;*/
+
+}
+
+.content {
+    width: 70%;
+    max-width: 700px;
+    /* Largeur maximale */
+    margin: 0 auto;
+    /* Centre horizontalement */
+    /* ⬅️ left 20px, ⬇️ down 10px */
+    padding: 20px;
+    /* Espacement interne */
+    line-height: 1.4;
+    /* Lisibilité du texte */
+    /*  background-color: #f9f9f9;*/
+}
+
+@media (max-width: 1450px) {
+    .content {
+        max-width: 90%;
+        padding: 10px;
+    }
+
+    .top-right {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        color: black;
+        padding: 10px;
+        border-radius: 5px;
+        text-align: center;
+        /*  background-color: #db1919;*/
+
+    }
+
+    .top-left {
+        position: relative;
+        width: fit-content;
+        top: 10px;
+        left: 10px;
+        color: black;
+        padding: 10px;
+        border-radius: 5px;
+        /* background-color: rgb(27, 17, 166);*/
+    }
+
+
+    .description {
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 750px) {
+    .content {
+        width: 100%;
+        padding: 0px;
+        /* background-color: #75b3bf;*/
+    }
+
+    .top-right {
+        position: relative;
+        top: 10px;
+        right: 10px;
+        color: black;
+        padding: 10px;
+        border-radius: 5px;
+        text-align: center;
+        /*   background-color: #db1919;*/
+
+    }
+
+    .top-left {
+        position: relative;
+        top: 10px;
+        left: 10px;
+        color: black;
+        padding: 10px;
+        border-radius: 5px;
+        /*  background-color: #21be48;*/
+    }
+
+}
